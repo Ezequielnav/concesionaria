@@ -1,0 +1,16 @@
+com\ezequiel\concesionaria\igu\Principal$2.class
+com\ezequiel\concesionaria\persistencia\exceptions\IllegalOrphanException.class
+com\ezequiel\concesionaria\igu\Principal.class
+com\ezequiel\concesionaria\persistencia\AutomovilJpaController.class
+com\ezequiel\concesionaria\logica\Controladora.class
+com\ezequiel\concesionaria\igu\AltaAutomovil$3.class
+com\ezequiel\concesionaria\persistencia\exceptions\NonexistentEntityException.class
+com\ezequiel\concesionaria\logica\Automovil.class
+com\ezequiel\concesionaria\logica\Automovil_.class
+com\ezequiel\concesionaria\igu\AltaAutomovil.class
+com\ezequiel\concesionaria\persistencia\exceptions\PreexistingEntityException.class
+com\ezequiel\concesionaria\igu\AltaAutomovil$1.class
+com\ezequiel\concesionaria\igu\AltaAutomovil$2.class
+com\ezequiel\concesionaria\Concesionaria.class
+com\ezequiel\concesionaria\igu\Principal$1.class
+com\ezequiel\concesionaria\persistencia\ControladoraPersistencia.class
